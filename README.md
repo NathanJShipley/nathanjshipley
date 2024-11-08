@@ -1,7 +1,5 @@
 # Hi, I'm Nate 
 
-<img src="https://github.com/NathanJShipley/nathanjshipley/blob/main/github-header-image.png">
-
 I'm a data scientist and applied researcher with a passion for using statistics and analytics to tackle complex, real-world challenges. While R is my favorite language for coding, I also have extensive experience in Python, SQL, and Power BI.
 
 Currently, I'm a Senior Data Scientist at <a href="https://www.sierraspace.com/">Sierra Space</a>, where I lead projects across the data stack—from backend integration to frontend visualization. My work often involves uncovering patterns in data to enhance program execution, blending both descriptive and predictive approaches.
@@ -19,4 +17,9 @@ Outside of work, I’m an avid birder who loves to blend my passion for birding 
 
 
 
-<!--[Text](https://www.youtube.com/watch?v=KhGWbt1dAKQ) good link for more ideas as needed-->
+<!--
+
+(https://www.youtube.com/watch?v=KhGWbt1dAKQ) good link for more ideas as needed
+<img src="https://github.com/NathanJShipley/nathanjshipley/blob/main/github-header-image.png">
+
+-->
