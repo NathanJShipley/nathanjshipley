@@ -1,6 +1,6 @@
 # Hi, I'm Nate 
 
-<img src=".png" alt="banner that says - ">
+<img src="https://github.com/NathanJShipley/nathanjshipley/blob/main/github-header-image.png">
 
 I'm a data scientist and applied researcher with a passion for using statistics and analytics to tackle complex, real-world challenges. While R is my favorite language for coding, I also have extensive experience in Python, SQL, and Power BI.
 
