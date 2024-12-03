@@ -11,7 +11,7 @@ Outside of work, I’m an avid birder who loves to blend my passion for birding 
 ## Some selected personal project highlights
 
 - 🏈 <a href="https://github.com/NathanJShipley/Public_RStudio_Projects/tree/main/ncaaf_weekly_ap_poll_predictions/scripts">NCAA Football AP Weekly Vote Predictions </a>: My attempt at a predictive model to forecast weekly AP Top 25 rankings using team performance metrics.
-- 🦅 <a href="https://github.com/NathanJShipley/eBird_Mapping_RShiny">eBird Data Mapping with R Shiny</a>: An interactive application to visualize birding data from eBird, allowing users to explore species distribution and trends.
+- 🦅 <a href="https://github.com/NathanJShipley/eBird_Mapping_RShiny">eBird Data Mapping with R Shiny</a>: An interactive application to visualize birding data from eBird, allowing users to explore species distribution and trends. I also created <a href="">an exe via python</a> that does a simplified version of the Shiny app that I may eventually revisit to expand the functionality of the python script.
 - 💻 <a href="https://github.com/NathanJShipley/Public_Intro_to_R_Scripts">Intro Scripts for RStudio</a>: A series of beginner-friendly R scripts to help new users get started with data manipulation and visualization in RStudio.
 
 
